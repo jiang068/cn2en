@@ -54,7 +54,7 @@ python fix_rpy.py
 
 1. **加载字典**: 自动加载 `chinese_dictionary.json`
 2. **输入RPY路径**: 提示输入包含RPY文件的目录路径
-3. **生成更新映射**: 创建 `rpy_update_mapping.json` 文件，显示所有需要更新的RPY文件和具体修改内容
+3. **生成更新映射**: 创建 `rename_mapping.json` 文件，显示所有需要更新的RPY文件和具体修改内容
 4. **确认更新**: 检查映射文件后，输入 `y` 确认执行更新操作
 
 #### 示例：
